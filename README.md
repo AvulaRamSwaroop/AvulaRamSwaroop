@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Avula Ram Swaroop  
-Building Web3 with Passion and Code  
+### Building Web3 with Passion and Code  
  
 🌱 I’m currently learning **Advanced Solidity**  
 📫 How to reach me: **avularamswaroop@gmail.com**  
-🏆 3 x Web3/AI hackathon Winner.
+🏆 3 x Web3/AI Hackathon Winner.
 ### Connect with me  
 [GitHub](https://github.com/AvulaRamSwaroop) • [LinkedIn](https://www.linkedin.com/in/ram-swaroop-avula-99b776290/)  
 
