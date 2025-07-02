@@ -3,7 +3,7 @@ Building Web3 with Passion and Code
  
 🌱 I’m currently learning **Advanced Solidity**  
 📫 How to reach me: **avularamswaroop@gmail.com**  
-
+🏆 3 x Web3/AI hackathon Winner.
 ### Connect with me  
 [GitHub](https://github.com/AvulaRamSwaroop) • [LinkedIn](https://www.linkedin.com/in/ram-swaroop-avula-99b776290/)  
 
@@ -17,7 +17,7 @@ Building Web3 with Passion and Code
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript logo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react logo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind logo" width="40" height="40"/>
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind logo" width="40" height="40"/> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs logo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs logo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express logo" width="40" height="40"/>
@@ -27,12 +27,8 @@ Building Web3 with Passion and Code
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm logo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" width="40" height="40"/>
-  <!-- Ethers.js -->
-  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/master/docs/images/ethers-logo.png" alt="ethers.js logo" width="40" height="40"/>
-  <!-- Foundry -->
-  <img src="https://raw.githubusercontent.com/foundry-rs/foundry/master/media/foundry-logo.svg" alt="foundry logo" width="40" height="40"/>
-  <!-- Hardhat -->
-  <img src="https://raw.githubusercontent.com/nomiclabs/hardhat/master/docs/.vuepress/public/logo.svg" alt="hardhat logo" width="40" height="40"/>
+ 
+ 
 </p>
 
 
