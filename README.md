@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Avula Ram Swaroop  
-### Building Web3 with Passion and Code  
+
  
 🌱 I’m currently learning **Advanced Solidity**  
 📫 How to reach me: **avularamswaroop@gmail.com**  
