@@ -1,7 +1,5 @@
 ## Hi 👋, I'm Avula Ram Swaroop  
 
- 
-🌱 I’m currently learning **Advanced Solidity**  
 📫 How to reach me: **avularamswaroop@gmail.com**  
 🏆 3 x Web3/AI Hackathon Winner
 ### Connect with me  
